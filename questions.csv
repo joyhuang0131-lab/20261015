@@ -1,0 +1,16 @@
+question,opt1,opt2,opt3,opt4,answer
+"1. 在 p5.js 中，哪一個函數會在程式啟動時只執行一次？","draw()","setup()","createCanvas()","mousePressed()",1
+"2. 想要繪製一個圓形，應該使用哪一個指令？","rect()","line()","circle()","triangle()",2
+"3. 在 p5.js 中，用來設定畫布背景顏色的指令是什麼？","fill()","stroke()","background()","color()",2
+"4. 若要讓圖案隨著滑鼠移動，應該使用哪一組系統變數？","mouseX, mouseY","width, height","x, y","posX, posY",0
+"5. 設定圖案內部填滿顏色的指令是哪一個？","stroke()","fill()","color()","noFill()",1
+"6. 哪一個函數會以每秒約 60 次的頻率持續重複執行？","setup()","preload()","draw()","windowResized()",2
+"7. 想要在畫布上畫出一個矩形，應該使用哪個指令？","circle()","rect()","ellipse()","square()",1
+"8. 哪一個指令用來設定圖案的邊框顏色？","fill()","stroke()","color()","background()",1
+"9. 想要取得畫布的寬度，應該使用哪一個內建變數？","windowWidth","screenWidth","width","canvasWidth",2
+"10. 點擊滑鼠時會自動觸發的內建函數是？","click()","mousePressed()","onMouseClick()","mousePress()",1
+"11. 哪一個指令可以用來取消圖案的邊框？","noStroke()","noFill()","clear()","transparent()",0
+"12. 想要將繪圖原點移動到指定座標，應使用哪個指令？","translate()","rotate()","scale()","move()",0
+"13. 哪一個函數通常用來在程式開始前載入圖片或字型等外部檔案？","setup()","draw()","preload()","load()",2
+"14. 當瀏覽器視窗大小改變時，哪一個函數會被自動觸發？","windowResize()","resize()","windowResized()","screenResize()",2
+"15. 想要畫一條線段，應該使用哪一個指令？","line()","stroke()","pen()","draw()",0
